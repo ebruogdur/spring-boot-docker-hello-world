@@ -3,7 +3,7 @@ Spring boot + docker
 
 
 # Clone source code from git
-$  git clone https://github.com/ebruogdur/spring-boot-docker-hello-world.git .
+$  git clone https://github.com/ebruogdur/spring-boot-docker-hello-world.git 
 
 # Build project with Maven
 $ mvn clean install
